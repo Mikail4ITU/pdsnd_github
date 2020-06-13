@@ -225,7 +225,7 @@ def data(df):
     while True:
         answer = input("Do you want to see the raw data? Yes or No").lower()
         if answer not in ['yes', 'no']:
-            answer = input("You wrote the wrong word. Please type Yes or No.").lower()
+            answer = input("You entered the wrong word. Please type Yes or No.").lower()
            
         elif answer == 'yes':
             raw_data += 5
