@@ -2,7 +2,7 @@
 This file is created in 13 June 2020.
 
 ### Project Title
-Udacity Python for Data Science Nanodegree Program 
+Udacity Python for Data Science Nanodegree Program: Exploring Bikeshare Data
 
 ### Description
 The purpose of this project is determining Popular times of travel, Popular stations and trip, Trip duration, User info in each 3 cities which are Chicago, New York and Washington.
