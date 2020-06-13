@@ -1,5 +1,5 @@
 ### Date created
-This file is created in 13 June 2020.
+This file is created in June 2020.
 
 ### Project Title
 Udacity Python for Data Science Nanodegree Program: Exploring Bikeshare Data
